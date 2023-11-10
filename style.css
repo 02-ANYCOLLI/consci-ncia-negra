@@ -2,6 +2,14 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.elemento {
+    background-image: url(20.11.20_destaque-blog-espro_por-que-o-dia-da-consciencia-negra-e-importante.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+
 header {
     background-color: #000;
     color: #fff;
